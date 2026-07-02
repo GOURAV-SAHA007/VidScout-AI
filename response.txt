@@ -1,0 +1,35 @@
+Here is a breakdown of where and how much content is taught in each video related to detecting cancer, along with guidance links:
+
+1. **New_nanotech_to_detect_cancer_early**  
+   - Timestamp: 9, 16.0-19.0  
+   - Content: Discusses the development and use of nanotechnology for early detection of cancer.
+
+2. **What_do_we_Do_when_antibiotics_don’t_work_any_more**  
+   - Timestamps: 6, 451.96-453.48; 75.0-78.0  
+   - Content: Focuses on the consequences of antibiotics not working and discusses the importance of alternative treatments.
+
+3. **New_nanotech_to_detect_cancer_early**  
+   - Timestamps: 9, 129.0-133.0  
+   - Content: Discusses examples like ovarian, liver, and pancreatic cancer as case studies for early detection.
+
+4. **The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging**  
+   - Timestamps: 8, 29.54-30.98  
+   - Content: Teaches about the use of photoacoustic imaging technology for detecting early signs of cancer.
+
+5. **New_nanotech_to_detect_cancer_early**  
+   - Timestamps: 9, 115.0-120.0  
+   - Content: Discusses the role of invasive tools and their cost in early detection.
+
+6. **How_racism_harms_pregnant_women_and...**  
+   - Timestamps: 1, 90.64-92.8  
+   - Content: Explores how racism affects pregnant women, particularly concerning cancer patients.
+
+7. **New_nanotech_to_detect_cancer_early**  
+   - Timestamps: 9, 50.0-52.0  
+   - Content: Teaches about the difference between those with and without cancer.
+
+8. **The Final Video on Early Cancer Detection**  
+   - Timestamps: 9, 331.0-37.0  
+   - Content: Discusses the importance of early detection techniques in various forms of cancer.
+
+All these videos are part of a course focused on teaching methods and technologies for detecting and managing cancer. For additional information or questions not covered here, please let me know!

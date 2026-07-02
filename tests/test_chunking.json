@@ -1,0 +1,78 @@
+{
+  "text": "So most of you can probably relate to what I'm feeling right now. My heart is racing in my chest. My palms are a little bit clammy. I'm sweating. And my breath is a little bit shallow. Now, these familiar sensations are obviously the ...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.26,
+      "text": "So most of you can probably relate to what I'm feeling right now.",
+      "tokens": [50364, 407, 881, 295, 291, 393, 1391, 10961, 281, 437, 286, 478, 2633, 558, 586, 13, 50527],
+      "temperature": 0.0,
+      "avg_logprob": -0.34100617935408406,
+      "compression_ratio": 1.4451219512195121,
+      "no_speech_prob": 0.006684703752398491
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.2,
+      "end": 6.38,
+      "text": "My heart is racing in my chest.",
+      "tokens": [50574, 1222, 1917, 307, 12553, 294, 452, 7443, 13, 50683],
+      "temperature": 0.0,
+      "avg_logprob": -0.34100617935408406,
+      "compression_ratio": 1.4451219512195121,
+      "no_speech_prob": 0.006684703752398491
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.88,
+      "end": 9.0,
+      "text": "My palms are a little bit clammy.",
+      "tokens": [50708, 1222, 30819, 366, 257, 707, 857, 34112, 2226, 13, 50814],
+      "temperature": 0.0,
+      "avg_logprob": -0.34100617935408406,
+      "compression_ratio": 1.4451219512195121,
+      "no_speech_prob": 0.006684703752398491
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 9.88,
+      "end": 11.08,
+      "text": "I'm sweating.",
+      "tokens": [50858, 286, 478, 25438, 13, 50918],
+      "temperature": 0.0,
+      "avg_logprob": -0.34100617935408406,
+      "compression_ratio": 1.4451219512195121,
+      "no_speech_prob": 0.006684703752398491
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 11.86,
+      "end": 13.8,
+      "text": "And my breath is a little bit shallow.",
+      "tokens": [50957, 400, 452, 6045, 307, 257, 707, 857, 20488, 13, 51054],
+      "temperature": 0.0,
+      "avg_logprob": -0.34100617935408406,
+      "compression_ratio": 1.4451219512195121,
+      "no_speech_prob": 0.006684703752398491
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 14.5,
+      "end": 17.04,
+      "text": "Now, these familiar sensations are obviously the ...",
+      "tokens": [51089, 823, 11, 613, 4963, 36642, 366, 2745, 264, 1097, 51216],
+      "temperature": 0.0,
+      "avg_logprob": -0.34100617935408406,
+      "compression_ratio": 1.4451219512195121,
+      "no_speech_prob": 0.006684703752398491
+    }
+  ],
+  "language": "en"
+}

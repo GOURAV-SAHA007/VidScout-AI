@@ -1,0 +1,11 @@
+openai-whisper
+ffmpeg
+json
+os
+ollama->bge-m3
+deepseek-r1:1.5b
+joblib
+numpy
+pandas
+sklearn
+requests

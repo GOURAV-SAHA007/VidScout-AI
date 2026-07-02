@@ -1,0 +1,740 @@
+{
+    "chunks": [
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 0.0,
+            "end": 4.0,
+            "text": " Transcriber's Note"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 5.44,
+            "end": 10.24,
+            "text": " Breast cancer is one of the leading causes of cancer deaths globally."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 10.26,
+            "end": 14.4,
+            "text": " About one in eight US women will develop invasive breast cancer"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 14.42,
+            "end": 16.6,
+            "text": " over the course of their lifetime."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 16.62,
+            "end": 21.1,
+            "text": " And globally, millions of women suffer from breast cancer every year."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 22.22,
+            "end": 24.8,
+            "text": " But it is quite treatable if detected early."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 25.8,
+            "end": 29.52,
+            "text": " Right now, actuarial mammography is the gold standard"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 29.54,
+            "end": 30.98,
+            "text": " for breast cancer diagnosis."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 31.82,
+            "end": 35.34,
+            "text": " But mammography has a 10 percent chance of misdetection."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 36.34,
+            "end": 39.620000000000005,
+            "text": " Thousands of lives could be lost each year"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 39.64,
+            "end": 41.24,
+            "text": " because of this 10 percent."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 43.540000000000006,
+            "end": 47.74,
+            "text": " Today, I'm going to introduce a new technology,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 47.760000000000005,
+            "end": 49.2,
+            "text": " photoacoustic imaging."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 50.16,
+            "end": 54.16,
+            "text": " As you can see, it provides a much clearer image,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 54.31999999999999,
+            "end": 56.81999999999999,
+            "text": " leading to a more accurate diagnosis."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 57.81999999999999,
+            "end": 60.699999999999996,
+            "text": " It will be affordable, just like an ultrasound scan."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 62.339999999999996,
+            "end": 63.919999999999995,
+            "text": " It's painless and fast,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 63.94,
+            "end": 68.1,
+            "text": " taking only 15 seconds to scan the entire breast in 3D."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 69.06,
+            "end": 72.14,
+            "text": " And immediate results will be delivered to the patients."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 74.1,
+            "end": 75.58,
+            "text": " Beyond breast imaging,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 75.6,
+            "end": 80.38,
+            "text": " this technology will broadly transform how we see inside our bodies,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 80.39999999999999,
+            "end": 84.28,
+            "text": " and maybe one day even allow us to diagnose cancer"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 84.3,
+            "end": 86.44,
+            "text": " via a wearable watch-like device"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 86.46,
+            "end": 88.96,
+            "text": " that monitors circulating tumor cells."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 90.22,
+            "end": 92.84,
+            "text": " So what is photoacoustic imaging?"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 94.08,
+            "end": 96.17999999999999,
+            "text": " Based on a photoacoustic effect,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 96.19999999999999,
+            "end": 99.75999999999999,
+            "text": " it is a conversion of light energy into sound energy."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 101.19999999999999,
+            "end": 103.74,
+            "text": " We shine a gentle laser pulse onto the tissue."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 104.8,
+            "end": 106.96,
+            "text": " The light is absorbed,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 106.97999999999999,
+            "end": 109.22,
+            "text": " raising its temperature a bit."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 109.22,
+            "end": 114.53999999999999,
+            "text": " The rise in temperature leads to a tiny fraction of volume expansion,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 117.02,
+            "end": 119.48,
+            "text": " which in turn generates acoustic waves."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 120.92,
+            "end": 123.9,
+            "text": " Sensors process those sound signals,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 123.92,
+            "end": 126.6,
+            "text": " resulting in a high-resolution image"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 126.62,
+            "end": 129.12,
+            "text": " whose level of clarity and detail"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 129.14,
+            "end": 134.22,
+            "text": " first surpasses what you get with traditional CT scans or ultrasounds."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 137.4,
+            "end": 138.8,
+            "text": " Now, about me."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 140.22,
+            "end": 142.96,
+            "text": " I started out with industrial optics,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 142.98,
+            "end": 147.36,
+            "text": " but changed direction after my grandparents died of cancer and stroke."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 148.78,
+            "end": 152.44,
+            "text": " I realized that we needed better imaging technology"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 152.46,
+            "end": 154.24,
+            "text": " to aid early diagnosis"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 154.26,
+            "end": 157.92,
+            "text": " and provide a better understanding of the diseases."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 157.94,
+            "end": 163.14,
+            "text": " So I decided to devote myself to biomedical optical imaging."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 164.26,
+            "end": 167.72,
+            "text": " I now research and develop next-generation medical imaging"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 167.88,
+            "end": 170.7,
+            "text": " with applications ranging from diagnosing cancer"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 170.72,
+            "end": 172.1,
+            "text": " to mapping brain functions"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 172.12,
+            "end": 175.66,
+            "text": " and navigating medical micro-robots for drug delivery."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 176.66,
+            "end": 179.14,
+            "text": " Here are some examples showing what we can do."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 180.06,
+            "end": 181.22,
+            "text": " Take this mouse."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 181.98,
+            "end": 186.62,
+            "text": " The mouse has been virtually sliced into 600 pieces from head to toe."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 187.48,
+            "end": 191.12,
+            "text": " It took only 12 seconds to complete the whole body scan."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 192.52,
+            "end": 194.74,
+            "text": " It looks a little like a mouse carpaccio."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 195.3,
+            "end": 199.44,
+            "text": " But don't worry, no mice were hurt during the imaging."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 202.10000000000002,
+            "end": 203.68,
+            "text": " In this next video,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 203.70000000000002,
+            "end": 207.92000000000002,
+            "text": " we hold the animal and other mouse in position to image its liver."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 207.94,
+            "end": 210.4,
+            "text": " The liver has a lot of blood vessels inside."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 210.42000000000002,
+            "end": 212.70000000000002,
+            "text": " You can see them as a tree-like network."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 213.78,
+            "end": 216.36,
+            "text": " Because our imaging exposure time is so short,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 216.38,
+            "end": 218.4,
+            "text": " only 50 microseconds,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 218.42000000000002,
+            "end": 220.08,
+            "text": " there is no blur at all,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 220.10000000000002,
+            "end": 222.9,
+            "text": " despite the movement of the animal during the imaging."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 223.9,
+            "end": 225.96,
+            "text": " The mouse is breathing normally,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 225.98000000000002,
+            "end": 228.42000000000002,
+            "text": " and every frame in our video is clear."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 230.1,
+            "end": 233.48000000000002,
+            "text": " With inch slice, we can clearly see the internal structure"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 233.5,
+            "end": 235.72,
+            "text": " and the blood vessel network."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 235.74,
+            "end": 239.66,
+            "text": " This enables us to differentiate a tumor from normal tissue."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 240.9,
+            "end": 244.32,
+            "text": " The light dose we use is well below the safety limit,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 244.34,
+            "end": 247.84,
+            "text": " and we don't need to inject any contrast agents."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 247.86,
+            "end": 249.70000000000002,
+            "text": " It is totally noninvasive."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 249.89999999999998,
+            "end": 253.22,
+            "text": " Now, for an example that is a little closer to home."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 254.26,
+            "end": 257.82,
+            "text": " This is a side-by-side comparison of human brain images."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 258.7,
+            "end": 261.8,
+            "text": " On the left, you see an image from an MRI."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 261.82,
+            "end": 264.42,
+            "text": " On the right, from photoacoustic imaging."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 265.82,
+            "end": 269.03999999999996,
+            "text": " Photoacoustic imaging can reveal detailed vasculature,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 269.06,
+            "end": 272.12,
+            "text": " but with even faster detection of the brain functions,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 272.14,
+            "end": 275.21999999999997,
+            "text": " and without using the costly high magnetic field."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 275.34000000000003,
+            "end": 277.08000000000004,
+            "text": " Although I don't have a visual for it,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 277.1,
+            "end": 279.06,
+            "text": " I'd like to share one more example."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 280.5,
+            "end": 281.84000000000003,
+            "text": " In science fiction,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 281.86,
+            "end": 287.18,
+            "text": " microrobots enter our bodies to cure diseases in heart-rich areas."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 287.62,
+            "end": 291.6,
+            "text": " However, the brain is not able to detect these diseases."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 291.62,
+            "end": 295.56,
+            "text": " This is because the brain is not able to detect the brain's activity."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 295.58000000000004,
+            "end": 298.0,
+            "text": " This is why we call it the brain's activity."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 298.02000000000004,
+            "end": 300.8,
+            "text": " The brain is not able to detect the brain's activity."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 331.56,
+            "end": 335.34000000000003,
+            "text": " The brain's first diagnosis was invented in the 17th century,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 335.36,
+            "end": 338.0,
+            "text": " which revolutionized 19th-century medicine"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 338.04,
+            "end": 339.8,
+            "text": " by letting us see into a cell."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 341.96000000000004,
+            "end": 346.78000000000003,
+            "text": " The optical coherence tomography developed in the 1990s"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 347.88,
+            "end": 351.14,
+            "text": " increased optical penetration to one millimeter,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 351.16,
+            "end": 355.56,
+            "text": " bringing huge benefits to clinical care for skin and eyes."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 355.56,
+            "end": 361.46,
+            "text": " Now, photoacoustic imaging, first adopted for medical use in the 2000s,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 361.48,
+            "end": 364.26,
+            "text": " allows us to see even more,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 364.28000000000003,
+            "end": 367.42,
+            "text": " allowing penetration by another order of magnitude"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 367.44,
+            "end": 369.22,
+            "text": " to several centimeters,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 369.24,
+            "end": 372.52,
+            "text": " allowing organ-level in vivo human imaging."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 373.96,
+            "end": 377.72,
+            "text": " Photoacoustic imaging is a highly active and fast-growing research field."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 379.64,
+            "end": 382.18,
+            "text": " Using a microwave instead of light,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 382.18,
+            "end": 387.16,
+            "text": " this imaging method holds premises for whole-body penetration in humans"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 387.18,
+            "end": 388.38,
+            "text": " in the future."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 389.18,
+            "end": 392.64,
+            "text": " We are hoping that the further advancement of this technology"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 392.66,
+            "end": 396.48,
+            "text": " will aid early diagnosis of cancer and brain diseases,"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 396.5,
+            "end": 399.14,
+            "text": " ultimately benefiting global health."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 400.34000000000003,
+            "end": 404.6,
+            "text": " I hope you all can share my excitement over this fast-growing field"
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 404.62,
+            "end": 408.26,
+            "text": " and hope you'll join us in advancing the technology."
+        },
+        {
+            "number": "8",
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "start": 409.06,
+            "end": 410.24,
+            "text": " Thank you."
+        }
+    ],
+    "text": " Transcriber's Note Breast cancer is one of the leading causes of cancer deaths globally. About one in eight US women will develop invasive breast cancer over the course of their lifetime. And globally, millions of women suffer from breast cancer every year. But it is quite treatable if detected early. Right now, actuarial mammography is the gold standard for breast cancer diagnosis. But mammography has a 10 percent chance of misdetection. Thousands of lives could be lost each year because of this 10 percent. Today, I'm going to introduce a new technology, photoacoustic imaging. As you can see, it provides a much clearer image, leading to a more accurate diagnosis. It will be affordable, just like an ultrasound scan. It's painless and fast, taking only 15 seconds to scan the entire breast in 3D. And immediate results will be delivered to the patients. Beyond breast imaging, this technology will broadly transform how we see inside our bodies, and maybe one day even allow us to diagnose cancer via a wearable watch-like device that monitors circulating tumor cells. So what is photoacoustic imaging? Based on a photoacoustic effect, it is a conversion of light energy into sound energy. We shine a gentle laser pulse onto the tissue. The light is absorbed, raising its temperature a bit. The rise in temperature leads to a tiny fraction of volume expansion, which in turn generates acoustic waves. Sensors process those sound signals, resulting in a high-resolution image whose level of clarity and detail first surpasses what you get with traditional CT scans or ultrasounds. Now, about me. I started out with industrial optics, but changed direction after my grandparents died of cancer and stroke. I realized that we needed better imaging technology to aid early diagnosis and provide a better understanding of the diseases. So I decided to devote myself to biomedical optical imaging. I now research and develop next-generation medical imaging with applications ranging from diagnosing cancer to mapping brain functions and navigating medical micro-robots for drug delivery. Here are some examples showing what we can do. Take this mouse. The mouse has been virtually sliced into 600 pieces from head to toe. It took only 12 seconds to complete the whole body scan. It looks a little like a mouse carpaccio. But don't worry, no mice were hurt during the imaging. In this next video, we hold the animal and other mouse in position to image its liver. The liver has a lot of blood vessels inside. You can see them as a tree-like network. Because our imaging exposure time is so short, only 50 microseconds, there is no blur at all, despite the movement of the animal during the imaging. The mouse is breathing normally, and every frame in our video is clear. With inch slice, we can clearly see the internal structure and the blood vessel network. This enables us to differentiate a tumor from normal tissue. The light dose we use is well below the safety limit, and we don't need to inject any contrast agents. It is totally noninvasive. Now, for an example that is a little closer to home. This is a side-by-side comparison of human brain images. On the left, you see an image from an MRI. On the right, from photoacoustic imaging. Photoacoustic imaging can reveal detailed vasculature, but with even faster detection of the brain functions, and without using the costly high magnetic field. Although I don't have a visual for it, I'd like to share one more example. In science fiction, microrobots enter our bodies to cure diseases in heart-rich areas. However, the brain is not able to detect these diseases. This is because the brain is not able to detect the brain's activity. This is why we call it the brain's activity. The brain is not able to detect the brain's activity. The brain's first diagnosis was invented in the 17th century, which revolutionized 19th-century medicine by letting us see into a cell. The optical coherence tomography developed in the 1990s increased optical penetration to one millimeter, bringing huge benefits to clinical care for skin and eyes. Now, photoacoustic imaging, first adopted for medical use in the 2000s, allows us to see even more, allowing penetration by another order of magnitude to several centimeters, allowing organ-level in vivo human imaging. Photoacoustic imaging is a highly active and fast-growing research field. Using a microwave instead of light, this imaging method holds premises for whole-body penetration in humans in the future. We are hoping that the further advancement of this technology will aid early diagnosis of cancer and brain diseases, ultimately benefiting global health. I hope you all can share my excitement over this fast-growing field and hope you'll join us in advancing the technology. Thank you."
+}
