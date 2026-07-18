@@ -1,16 +1,35 @@
-To learn about breast cancer through these videos, follow this structured approach:
+Certainly! Below is a structured summary of the content taught in each Tedx video:
 
-1. **Video 8 - "The Incredible Cancer-Detecting Potential of Photoacoustic Imaging" (Number: 8)**
-   - This video introduces advanced imaging techniques for early detection of breast cancer. Pay attention to the technology's role in identifying cancer at an early stage.
+1. **Video: "The Incredible Cancer-Detecting Potential of Photoacoustic Imaging" (Number 8)**
+   - **Timestamps:** Starts at 29.54 and ends at 30.98
+   - **Content:** Discusses the potential of photoacoustic imaging in detecting breast cancer.
 
-2. **Videos 9 - "New Nanotech to Detect Cancer Early"**  
-   - These videos likely cover various nanotechnology solutions and their applications in early cancer detection.
-     - **Video 1:** Focuses on specific nanotechnologies relevant to breast cancer diagnosis.
-     - **Video 2:** Discusses the impact of these technologies on patient care and caregivers.
-     - **Video 3:** Explores societal and cultural aspects influencing awareness of breast cancer.
+2. **Video: "New Nanotech to Detect Cancer Early" (Number 9)**
+   - **Timestamps:** Starts at 254.0–256.0
+   - **Content:** Explains mammography as a method for early-stage screening of breast cancer.
 
-During this exploration, keep an eye out for:
-   - Patient confidentiality and ethical considerations in healthcare settings (e.g., videos 1 and 2).
-   - Broader societal impacts on women's health, including reproductive choices (video 3).
+3. **Video: "What Your Doctor Won’t Disclose" (Number 2)**
+   - **Timestamps:** Starts at 137.8–140.82
+   - **Content:** Discusses issues like stage four breast cancer and the emotional impact on families during treatment.
 
-Engage with these topics as they provide a comprehensive understanding of breast cancer detection and its implications.
+4. **Video: "New Nanotech..." (Number 9, other instances)  
+   - **Timestamps:** Starts at 219.0–224.0 and 244.0–248.0
+   - **Content:** Further details on mammography as a screening method for breast cancer.
+
+5. **Video: "What Your Doctor Won’t Disclose" (Number 2, other instances)**
+   - **Timestamps:** Starts at 328.72–332.16
+   - **Content:** Explores the emotional and societal effects of cancer on families.
+
+6. **Video: "How to Avoid Racism and Its Impact" (Number 1)**
+   - **Timestamps:** Starts at 90.64–92.8
+   - **Content:** Discusses systemic issues like heart disease and their impact on individuals.
+
+7. **Video: "New Nanotech..." (Number 9, other instances)  
+   - **Timestamps:** Starts at 166.0–171.0
+   - **Content:** Introduces graphic medicine as a tool for better healthcare.
+
+8. **Video: "The Incredible Cancer-Detecting Potential of Photoacoustic Imaging" (Number 8, other instances)  
+   - **Timestamps:** Starts at 86.46–88.96
+   - **Content:** Details ongoing research on using photoacoustic imaging for cancer detection.
+
+Each video is taught at specific timestamps, providing clear and concise information on the discussed topics.
