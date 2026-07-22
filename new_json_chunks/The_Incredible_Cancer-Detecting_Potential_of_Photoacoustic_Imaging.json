@@ -1,0 +1,173 @@
+{
+    "chunks": [
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 0.0,
+            "end": 21.1,
+            "text": " Transcriber's Note  Breast cancer is one of the leading causes of cancer death globally.  About one in eight US women will develop invasive breast cancer  over the course of their lifetime,  and globally, millions of women suffer from breast cancer every year."
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 22.26,
+            "end": 39.620000000000005,
+            "text": " But it is quite treatable if detected early.  Right now, actuarial mammography is the gold standard  for breast cancer diagnosis.  But mammography has a 10 percent chance of misdetection.  Thousands of lives could be lost each year"
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 39.64,
+            "end": 56.84,
+            "text": " because of this 10 percent.  Today, I'm going to introduce a new technology,  photoacoustic imaging.  As you can see, it provides a much clearer image,  leading to a more accurate diagnosis."
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 57.8,
+            "end": 75.58,
+            "text": " It will be affordable, just like an ultrasound scan.  It's painless and fast,  taking only 15 seconds to scan the entire breast in 3D.  And immediate results will be delivered to the patients.  Beyond breast imaging,"
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 75.6,
+            "end": 92.7,
+            "text": " this technology will broadly transform how we see inside our bodies,  and maybe one day even allow us to diagnose cancer  via a wearable watch-like device  that monitors circulating tumor cells.  So what is photoacoustic imaging?"
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 93.94000000000001,
+            "end": 109.08000000000001,
+            "text": " Based on the photoacoustic effect,  it is a conversion of light energy into sound energy.  We shine a gentle laser pulse onto the tissue.  The light is absorbed,  raising its temperature a bit."
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 109.10000000000001,
+            "end": 126.62,
+            "text": " The rise in temperature  leads to a tiny fraction of volume expansion,  which in turn generates acoustic waves.  Sensors process those sound signals,  resulting in a high-resolution image"
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 126.64,
+            "end": 143.0,
+            "text": " whose level of clarity and detail  far surpasses what you get with traditional CT scans or ultrasounds.  Now, about me.  I studied industrial optics,  but changed the direction"
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 143.01999999999998,
+            "end": 161.72,
+            "text": " after my grandparents died of cancer and stroke.  I realized that we needed better imaging technology  to aid early diagnosis  and provide better understanding of the diseases.  So I decided to devote myself to biomedical optical imaging."
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 162.7,
+            "end": 177.34,
+            "text": " I now research and develop next-generation medical imaging  with applications ranging from diagnosing cancer  to mapping brain functions  and navigating medical microrobots for drug delivery.  Here are some examples showing what we can do."
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 178.2,
+            "end": 195.98,
+            "text": " Take this mouse.  The mouse has been virtually sliced into 600 pieces from head to toe.  It took only 12 seconds to complete the whole body scan.  It looks a little like a mouse carpaccio.  But don't worry, no mice were hurt during the imaging."
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 198.28,
+            "end": 212.52,
+            "text": " In this next video, we hold the animal, another mouse,  in position to image its liver.  The liver has a lot of blood vessels inside.  You can see them as a tree-like network.  Because our imaging exposure time is so short,"
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 212.54,
+            "end": 229.06,
+            "text": " only 50 microseconds,  there is no blur at all despite the movement of the animal during the imaging.  The mouse is breathing normally,  and every frame in our video is clear.  With inch slice, we can clearly see the internal structure"
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 229.08,
+            "end": 245.66,
+            "text": " and the blood vessel network.  This enables us to differentiate a tumor from normal tissue.  The light dose we use is well below the safety limit,  and we don't need to inject any contrast agents.  It is totally non-sensitive."
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 245.66,
+            "end": 264.92,
+            "text": " Now, for an example that is a little closer to home.  This is a side-by-side comparison of human brain images.  On the left, you see an image from an MRI.  On the right, from photoacoustic imaging.  Photoacoustic imaging can reveal detailed vasculature,"
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 264.94,
+            "end": 280.78000000000003,
+            "text": " but with even faster detection of the brain functions  and without using the costly, high-cost imaging technology.  What you are seeing here is the brain's activity.  Well, a patient, now a human this time,  taps his finger, pucks his lips, taps his tongue,"
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 280.8,
+            "end": 299.58000000000004,
+            "text": " and is listening and thinking of words.  Although I don't have a visual for it, I'd like to share one more example.  In science fiction, microrobots enter our bodies  to cure diseases,  and we can see that the brain is not only thinking of the brain,"
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 299.58,
+            "end": 319.28,
+            "text": " but also the brain is thinking of the body.  So, microrobots enter our bodies to cure diseases in heart-rich areas.  However, in reality,  locating, guiding and controlling them inside the body is a big challenge.  Just like the satellites in space guiding cars to their destinations,"
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 319.29999999999995,
+            "end": 331.16,
+            "text": " a photoacoustic imaging system outside the body  can serve similarly as a GPS for the microrobots.  The use of optical  and optical penetrations in the brain  has come a long way."
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 332.2,
+            "end": 349.72,
+            "text": " The microscope used every day in modern medical diagnosis  was invented in the 17th century,  which revolutionized 19th-century medicine  by letting us see into a cell.  The optical coherence tomography developed in the 1990s"
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 349.74,
+            "end": 364.73999999999995,
+            "text": " increased optical penetration to one millimeter,  and the size.  Now, photoacoustic imaging,  first adopted for medical use in the 2000s,  allows us to see even more,"
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 364.76,
+            "end": 382.64,
+            "text": " allowing penetration by another order of magnitude  to several centimeters,  allowing organ-level in vivo human imaging.  Photoacoustic imaging is a highly active and fast-growing research field.  Using a microwave instead of light,"
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 382.64,
+            "end": 399.71999999999997,
+            "text": " the photoacoustic imaging method holds premises  for whole-body penetration in humans in the future.  We are hoping that the further advancement of this technology  will aid early diagnosis of cancer and brain diseases,  ultimately benefiting global health."
+        },
+        {
+            "title": "The_Incredible_Cancer-Detecting_Potential_of_Photoacoustic_Imaging",
+            "number": "2",
+            "start": 401.03999999999996,
+            "end": 410.9,
+            "text": " I hope you all can share my excitement over this fast-growing field,  and hope you'll join us in advancing the technology.  Thank you."
+        }
+    ],
+    "text": " Transcriber's Note Breast cancer is one of the leading causes of cancer death globally. About one in eight US women will develop invasive breast cancer over the course of their lifetime, and globally, millions of women suffer from breast cancer every year. But it is quite treatable if detected early. Right now, actuarial mammography is the gold standard for breast cancer diagnosis. But mammography has a 10 percent chance of misdetection. Thousands of lives could be lost each year because of this 10 percent. Today, I'm going to introduce a new technology, photoacoustic imaging. As you can see, it provides a much clearer image, leading to a more accurate diagnosis. It will be affordable, just like an ultrasound scan. It's painless and fast, taking only 15 seconds to scan the entire breast in 3D. And immediate results will be delivered to the patients. Beyond breast imaging, this technology will broadly transform how we see inside our bodies, and maybe one day even allow us to diagnose cancer via a wearable watch-like device that monitors circulating tumor cells. So what is photoacoustic imaging? Based on the photoacoustic effect, it is a conversion of light energy into sound energy. We shine a gentle laser pulse onto the tissue. The light is absorbed, raising its temperature a bit. The rise in temperature leads to a tiny fraction of volume expansion, which in turn generates acoustic waves. Sensors process those sound signals, resulting in a high-resolution image whose level of clarity and detail far surpasses what you get with traditional CT scans or ultrasounds. Now, about me. I studied industrial optics, but changed the direction after my grandparents died of cancer and stroke. I realized that we needed better imaging technology to aid early diagnosis and provide better understanding of the diseases. So I decided to devote myself to biomedical optical imaging. I now research and develop next-generation medical imaging with applications ranging from diagnosing cancer to mapping brain functions and navigating medical microrobots for drug delivery. Here are some examples showing what we can do. Take this mouse. The mouse has been virtually sliced into 600 pieces from head to toe. It took only 12 seconds to complete the whole body scan. It looks a little like a mouse carpaccio. But don't worry, no mice were hurt during the imaging. In this next video, we hold the animal, another mouse, in position to image its liver. The liver has a lot of blood vessels inside. You can see them as a tree-like network. Because our imaging exposure time is so short, only 50 microseconds, there is no blur at all despite the movement of the animal during the imaging. The mouse is breathing normally, and every frame in our video is clear. With inch slice, we can clearly see the internal structure and the blood vessel network. This enables us to differentiate a tumor from normal tissue. The light dose we use is well below the safety limit, and we don't need to inject any contrast agents. It is totally non-sensitive. Now, for an example that is a little closer to home. This is a side-by-side comparison of human brain images. On the left, you see an image from an MRI. On the right, from photoacoustic imaging. Photoacoustic imaging can reveal detailed vasculature, but with even faster detection of the brain functions and without using the costly, high-cost imaging technology. What you are seeing here is the brain's activity. Well, a patient, now a human this time, taps his finger, pucks his lips, taps his tongue, and is listening and thinking of words. Although I don't have a visual for it, I'd like to share one more example. In science fiction, microrobots enter our bodies to cure diseases, and we can see that the brain is not only thinking of the brain, but also the brain is thinking of the body. So, microrobots enter our bodies to cure diseases in heart-rich areas. However, in reality, locating, guiding and controlling them inside the body is a big challenge. Just like the satellites in space guiding cars to their destinations, a photoacoustic imaging system outside the body can serve similarly as a GPS for the microrobots. The use of optical and optical penetrations in the brain has come a long way. The microscope used every day in modern medical diagnosis was invented in the 17th century, which revolutionized 19th-century medicine by letting us see into a cell. The optical coherence tomography developed in the 1990s increased optical penetration to one millimeter, and the size. Now, photoacoustic imaging, first adopted for medical use in the 2000s, allows us to see even more, allowing penetration by another order of magnitude to several centimeters, allowing organ-level in vivo human imaging. Photoacoustic imaging is a highly active and fast-growing research field. Using a microwave instead of light, the photoacoustic imaging method holds premises for whole-body penetration in humans in the future. We are hoping that the further advancement of this technology will aid early diagnosis of cancer and brain diseases, ultimately benefiting global health. I hope you all can share my excitement over this fast-growing field, and hope you'll join us in advancing the technology. Thank you."
+}

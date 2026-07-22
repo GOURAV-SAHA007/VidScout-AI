@@ -8,6 +8,19 @@ import math
 AUDIO_DIR = os.environ.get("AUDIO_DIR", "audios")
 OUTPUT_DIR = os.environ.get("NEW_JSON_DIR", "new_json_chunks")
 
+def parse_filename_metadata(audio_filename, idx):
+    """
+    Safely extract video title and number without breaking on arbitrary filenames.
+    """
+
+    clean_name = os.path.splitext(audio_filename)[0]
+
+    if "-" in clean_name and clean_name.split("_")[0].isdigit():
+        parts = clean_name.split("_", 1)
+        return parts[0], parts[1]
+    
+    return str(idx+1), clean_name
+
 #Acces the directort
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -16,20 +29,32 @@ def main():
         print(f"Audio directory '{AUDIO_DIR}' not found.")
         return
     
-    audios = [f for f in os.listdir(AUDIO_DIR) if not f.startswith('.')]
+    audios = [f for f in os.listdir(AUDIO_DIR) if f.endswith('.mp3')]
     if not audios:
         print(f"No audios found in '{AUDIO_DIR}' directory.")
         return
     
+    pending_audios = []
+    for idx, audio in enumerate(audios):
+        json_name = os.path.splitext(audio)[0] + ".json"
+        output_path = os.path.join(OUTPUT_DIR, json_name)
+
+        if os.path.exists(output_path):
+            print(f"File {output_path} already exists.")
+        else:
+            pending_audios.append((idx, audio, output_path))
+
+    if not pending_audios:
+        print("All audios are transcribed")
+        return
+    
     #Load Model
     model = whisper.load_model("medium")
-
     #Number of Chunks
     n = 5
 
-    for audio in audios:
-        num = audio.split("_")[0]
-        title = os.path.splitext(audio)[0][2:]
+    for idx, audio, output_path in pending_audios:
+        num, title = parse_filename_metadata(audio, idx)
         audio_path = os.path.join(AUDIO_DIR, audio)
 
         result = model.transcribe(

@@ -3,20 +3,33 @@
 import os
 import subprocess
 
-os.makedirs("audios", exist_ok=True)
+VIDEOS_DIR = os.environ.get("VIDEOS_DIR", "videos")
+AUDIOS_DIR = os.environ.get("AUDIOS_DIR", "audios")
 
-files = os.listdir("videos")
-file_num = 1
+def extract_audio():
+    os.makedirs(AUDIOS_DIR, exist_ok=True)
 
-for file in files:
-    if file.startswith('.'):
-        continue      
-    file_name = os.path.splitext(file)[0]
+    if not os.path.exists(VIDEOS_DIR):
+        print("Video Directory 404.")
+        return
     
-    subprocess.run([
-        "ffmpeg", 
-        "-i", f"videos/{file}", 
-        f"audios/{file_num}_{file_name}.mp3"
-    ])
-    
-    file_num = file_num + 1
+    video_files = [f for f in os.listdir(VIDEOS_DIR) if not f.startswith(".")]
+
+    for video in video_files:
+        base_name = os.path.splitext(video)[0]
+        video_input_path = os.path.join(VIDEOS_DIR, video)
+        audio_output_name = os.path.join(AUDIOS_DIR, f"{base_name}.mp3")
+
+        if os.path.exists(audio_output_name):
+            print(f"Audio {audio_output_name} already exist.")
+            continue
+
+        cmd = [
+            "ffmpeg", "-y", "-i", video_input_path,
+            "-vn", "-acodec", "libmp3lame", "-q:a", "2",
+            audio_output_name
+        ]
+        subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+
+if __name__ == "__main__":
+    extract_audio()
